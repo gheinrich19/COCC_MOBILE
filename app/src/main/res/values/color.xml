@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="cocc_lightblue">#85aad7</color> <!-- RGB(133,170,215) -->
+    <color name="cocc_darkblue">#27506c</color>  <!-- RGB(39,80,108)-->
+    <color name="cocc_grey">#43464f</color> <!-- rgb  RGB(67,70,79)-->
+</resources>

@@ -1,0 +1,192 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "desc": "This is the Barber Library. You can visit the page at <a href=\"/About/Our-Campuses/\" target=\"_blank\">Barber Library<\/a>",
+        "color": "blue",
+        "title": "Barber Library",
+        "ascii": "71"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+              [-121.3496053,44.072791],[-121.3496107,44.0726638],[-121.3500988,44.0726754],[-121.3501096,44.0724711],[-121.3491976,44.0724518],[-121.349203,44.0726561],[-121.3489884,44.0726522],[-121.348983,44.0727717],[-121.3496053,44.072791]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "desc": "This is the Bolye Education Center. You can visit the page at <a href=\"/About/Our-Campuses/\" target=\"_blank\">Boyle Education Center<\/a>",
+        "color": "red",
+        "title": "Boyle Education Center",
+        "ascii": "111"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+              [-121.3476057,44.0680136],[-121.3472678,44.0678161],[-121.3472369,44.0676243],[-121.3473536,44.0675183],[-121.3470425,44.0673401],[-121.3467957,44.0675656],[-121.3469352,44.0676426],[-121.3469781,44.0678566],[-121.3469513,44.0679211],[-121.347418,44.0681851],[-121.3476057,44.0680136]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "desc": "This is Cascades Hall - OSU-Cascades. You can visit the page at <a href=\"/About/Our-Campuses/\" target=\"_blank\">Cascades Hall - OSU-Cascades<\/a>",
+        "color": "yellow",
+        "title": "Cascades Hall - OSU-Cascades",
+        "ascii": "111"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+              [-121.3482267,44.0738586],[-121.3483527,44.0734288],[-121.3477908,44.0733498],[-121.3476728,44.0737776],[-121.3482267,44.0738586]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "desc": "This is Newberry Hall. You can visit the page at <a href=\"/About/Our-Campuses/\" target=\"_blank\">Newberry Hall<\/a>",
+        "color": "blue",
+        "title": "Newberry Hall",
+        "ascii": "103"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+              [-121.3476205,44.0730434],[-121.3475374,44.0726388],[-121.347584,44.0726359],[-121.3475698,44.0725562],[-121.3475077,44.072564],[-121.34751,44.0725757],[-121.3474294,44.0725848],[-121.347431,44.0726171],[-121.347238,44.0726353],[-121.3472408,44.0726554],[-121.3472114,44.072658],[-121.3473013,44.0730733],[-121.3476205,44.0730434]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "desc": "This is Pioneer Hall. You can visit the page at <a href=\"/About/Our-Campuses/\" target=\"_blank\">Pioneer Hall<\/a>",
+        "color": "green",
+        "title": "Pioneer Hall",
+        "ascii": "108"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-121.3466214,44.072763],[-121.3467407,44.0724133],[-121.3465919,44.0723853],[-121.3466428,44.0722418],[-121.3467206,44.0722553],[-121.3467582,44.0721454],[-121.3465825,44.0721146],[-121.3465664,44.0721608],[-121.3465288,44.0721522],[-121.346506,44.0722196],[-121.3465154,44.0722206],[-121.3464926,44.0722861],[-121.3463531,44.072262],[-121.3462365,44.0726147],[-121.3464604,44.0726551],[-121.3464323,44.0727322],[-121.3466214,44.072763]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "desc": "This is Ochoco Hall. You can visit the page at <a href=\"/About/Our-Campuses/\" target=\"_blank\">Ochoco Hall<\/a>",
+        "color": "red",
+        "title": "Ochoco Hall",
+        "ascii": "101"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+              [-121.3457336,44.0719421],[-121.3457805,44.0718168],[-121.3458905,44.07184],[-121.345932,44.0717147],[-121.3458382,44.0716935],[-121.3459428,44.0713592],[-121.3457671,44.0713293],[-121.3456652,44.0716617],[-121.3451529,44.0715644],[-121.3450617,44.0718159],[-121.3457336,44.0719421]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "desc": "This is the Physical Plant. You can visit the page at <a href=\"/About/Our-Campuses/\" target=\"_blank\">Physical Plant<\/a>",
+        "color": "yellow",
+        "title": "Physical Plant",
+        "ascii": "101"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+              [-121.3488221,44.068983],[-121.3489991,44.0689368],[-121.3489361,44.0688096],[-121.3487551,44.0688587],[-121.3488221,44.068983]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "desc": "This is the Science Center. You can visit the page at <a href=\"/About/Our-Campuses/\" target=\"_blank\">Science Center<\/a>",
+        "color": "yellow",
+        "title": "Science Center",
+        "ascii": "101"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+              [-121.3467702,44.0707039],[-121.3471618,44.0704765],[-121.346781,44.0701412],[-121.3463894,44.0703763],[-121.3467702,44.0707039]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "desc": "This is Pence Hall. You can visit the page at <a href=\"/About/Our-Campuses/\" target=\"_blank\">Pence Hall<\/a>",
+        "color": "yellow",
+        "title": "Pence Hall",
+        "ascii": "101"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+              [-121.3455686,44.0705286],[-121.3458207,44.0703956],[-121.3455901,44.0701566],[-121.3454908,44.0702145],[-121.3451743,44.06991],[-121.3449517,44.0700256],[-121.3453567,44.0704207],[-121.345413,44.0703821],[-121.3455686,44.0705286]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "desc": "This is Modoc Hall. You can visit the page at <a href=\"/About/Our-Campuses/\" target=\"_blank\">Modoc Hall<\/a>",
+        "color": "red",
+        "title": "Modoc Hall",
+        "ascii": "101"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+              [-121.3462391,44.0713746],[-121.3465154,44.0712262],[-121.3463008,44.0710104],[-121.3460219,44.0711626],[-121.3462391,44.0713746]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "desc": "This is Jungers Culinary Center. You can visit the page at <a href=\"/About/Our-Campuses/\" target=\"_blank\">Jungers Culinary Center<\/a>",
+        "color": "red",
+        "title": "Jungers Culinary Center",
+        "ascii": "101"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+              [-121.3533524,44.0690109],[-121.3534208,44.0687402],[-121.3526805,44.0686515],[-121.3526215,44.0689242],[-121.3533524,44.0690109]
+          ]
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,192 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "desc": "This is the Campus Center. You can visit the page at <a href=\"/About/Our-Campuses/\" target=\"_blank\">Campus Center<\/a> <img src=\"/uploadedImages/About/campus-bend-thmb.jpg\" \/>",
+        "color": "yellow",
+        "title": "Campus Center",
+        "ascii": "111"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-121.3487859,44.0716193],[-121.3486813,44.0709978],[-121.3482803,44.0710344],[-121.3483943,44.0716579],[-121.3487859,44.0716193]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "desc": "This is the Health Careers Center. You can visit the page at <a href=\"/About/Our-Campuses/\" target=\"_blank\">Health Careers Center<\/a>",
+        "color": "blue",
+        "title": "Health Careers Center",
+        "ascii": "103"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+              [-121.348053,44.0723564],[-121.3480342,44.0722654],[-121.3480463,44.0722639],[-121.3480349,44.0722148],[-121.3479846,44.0722206],[-121.3479806,44.0722027],[-121.3478646,44.0722158],[-121.3478491,44.0721555],[-121.347477,44.072195],[-121.3474803,44.0722085],[-121.3474106,44.0722162],[-121.347416,44.0722042],[-121.3472141,44.07217],[-121.3471793,44.0722726],[-121.3471907,44.072274],[-121.3472041,44.072341],[-121.3471437,44.0723482],[-121.3471531,44.0723945],[-121.3472202,44.0723863],[-121.3472302,44.0724383],[-121.3473576,44.0724248],[-121.347357,44.0724205],[-121.3475286,44.0724027],[-121.3475306,44.0724104],[-121.348053,44.0723564]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "desc": "This is Grandview Hall. You can visit the page at <a href=\"/About/Our-Campuses/\" target=\"_blank\">Grandview Hall<\/a>",
+        "color": "green",
+        "title": "Grandview Hall",
+        "ascii": "108"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-121.3449396,44.071284],[-121.3450979,44.0708697],[-121.3447036,44.0707936],[-121.3446003,44.0710691],[-121.3446821,44.0710846],[-121.3446298,44.0712252],[-121.3449396,44.071284]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "desc": "This is Juniper Hall. You can visit the page at <a href=\"/About/Our-Campuses/\" target=\"_blank\">Juniper Hall<\/a>",
+        "color": "red",
+        "title": "Juniper Hall",
+        "ascii": "101"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-121.3441001,44.0714709],[-121.3440827,44.0707569],[-121.3438667,44.0707627],[-121.3438882,44.0714786],[-121.3441001,44.0714709]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "desc": "This is the Mazama Gymnasium. You can visit the page at <a href=\"/About/Our-Campuses/\" target=\"_blank\">Mazama Gymnasium<\/a>",
+        "color": "green",
+        "title": "Mazama Gymnasium",
+        "ascii": "101"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-121.3487417,44.0708427],[-121.3492016,44.0706943],[-121.3487872,44.0700304],[-121.3483219,44.0701846],[-121.3487417,44.0708427]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "desc": "This is Ponderosa Hall. You can visit the page at <a href=\"/About/Our-Campuses/\" target=\"_blank\">Ponderosa Hall<\/a>",
+        "color": "red",
+        "title": "Ponderosa Hall",
+        "ascii": "101"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-121.3484707,44.0693251],[-121.3480899,44.0688009],[-121.34776,44.0689271],[-121.3481408,44.0694484],[-121.3484707,44.0693251]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "desc": "This is Campus Services. You can visit the page at <a href=\"/About/Our-Campuses/\" target=\"_blank\">Campus Services<\/a>",
+        "color": "green",
+        "title": "Campus Services",
+        "ascii": "101"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-121.3490085,44.0685195],[-121.3489965,44.0684097],[-121.348912,44.0684154],[-121.3489254,44.0685253],[-121.3490085,44.0685195]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "desc": "This is Des Chutes. You can visit the page at <a href=\"/About/Our-Campuses/\" target=\"_blank\">Des Chutes<\/a>",
+        "color": "blue",
+        "title": "Des Chutes",
+        "ascii": "101"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-121.3464537,44.0708485],[-121.3466227,44.0707598],[-121.3463652,44.0705093],[-121.3461936,44.0705999],[-121.3464537,44.0708485]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "desc": "This is Jefferson. You can visit the page at <a href=\"/About/Our-Campuses/\" target=\"_blank\">Jefferson<\/a>",
+        "color": "blue",
+        "title": "Jefferson",
+        "ascii": "101"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-121.3458931,44.0709313],[-121.3460541,44.0708408],[-121.3458019,44.0705941],[-121.3456357,44.0706808],[-121.3458931,44.0709313]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "desc": "This is Metolius. You can visit the page at <a href=\"/About/Our-Campuses/\" target=\"_blank\">Metolius<\/a>",
+        "color": "green",
+        "title": "Metolius",
+        "ascii": "101"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-121.3470116,44.0712166],[-121.3472557,44.070941],[-121.347068,44.0708562],[-121.3468266,44.0711356],[-121.3470116,44.0712166]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "desc": "This is the Physiology Lab. You can visit the page at <a href=\"/About/Our-Campuses/\" target=\"_blank\">Physiology Lab<\/a>",
+        "color": "red",
+        "title": "Physiology Lab",
+        "ascii": "101"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-121.348677,44.070023],[-121.348627,44.069917],[-121.348508,44.069951],[-121.348561,44.070050],[-121.348677,44.070023]
+          ]
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">COCC_MOBILE</string>
+    <string name="title_activity_google_map">Map</string>
+    <string name="mapButton">New Button</string>
+    <string name="mapstring">Campus Map</string>
+    <string name="loginpage">Student Login</string>
+    <string name="search_hint">Search COCC Directory</string>
+    <string name="app_label">search</string>
+</resources>
